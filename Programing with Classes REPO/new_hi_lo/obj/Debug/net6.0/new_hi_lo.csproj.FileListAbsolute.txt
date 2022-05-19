@@ -1,0 +1,15 @@
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\bin\Debug\net6.0\new_hi_lo.exe
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\bin\Debug\net6.0\new_hi_lo.deps.json
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\bin\Debug\net6.0\new_hi_lo.runtimeconfig.json
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\bin\Debug\net6.0\new_hi_lo.dll
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\bin\Debug\net6.0\new_hi_lo.pdb
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.csproj.AssemblyReference.cache
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.AssemblyInfoInputs.cache
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.AssemblyInfo.cs
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.csproj.CoreCompileInputs.cache
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.dll
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\refint\new_hi_lo.dll
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.pdb
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\new_hi_lo.genruntimeconfig.cache
+C:\Users\hyrum\OneDrive\Desktop\programing with classes\new_hi_lo\obj\Debug\net6.0\ref\new_hi_lo.dll
